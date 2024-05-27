@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://graph.org/file/e877291963214a0834111.jpg" alt="AutoFilter Lucy Logo">
+  <img src="https://graph.org/file/e877291963214a0834111.jpg" alt="AutoFilter Luca Logo">
 </p>
 <h2 align="center">
-  「 ʟᴜᴄʏ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ 」
+  「 ʟᴜᴄᴀ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ 」
 </h2>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=LUCY+AUTO+FILTER+BOT+!;CREATED+BY+CODEFLIX+BOTS!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=LUCA+AUTO+FILTER+BOT+!;CREATED+BY+ᴍᴜᴅɪʏᴀɴ+ᴍᴀꜱꜱ!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
 </p>
 
-Here's a tutorial on how to deploy Lucy Bot - <b>[ᴛᴜᴛᴏʀɪᴀʟ](https://youtu.be/ogrubGanI_M?si=Q57HMr7q_kAdETun)</b>
+Here's a tutorial on how to deploy ʟᴜᴄᴀ Bot - <b>[ᴛᴜᴛᴏʀɪᴀʟ](https://youtu.be/ogrubGanI_M?si=Q57HMr7q_kAdETun)</b>
 
-ʏᴏᴜ ᴡɪʟʟ ꜰɪɴᴅ ᴛʜɪs ʙᴏᴛ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs <b>[ʟᴜᴄʏ ᴀᴜᴛᴏғɪʟᴛᴇʀ ʙᴏᴛ](https://telegram.me/LUCY_FILTER_BOT)</b>
+ʏᴏᴜ ᴡɪʟʟ ꜰɪɴᴅ ᴛʜɪs ʙᴏᴛ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs <b>[ʟᴜᴀʏ ᴀᴜᴛᴏғɪʟᴛᴇʀ ʙᴏᴛ](https://t.me/Lucafilterbot)</b>
 
 <details>
   <summary><b>ꜰᴇᴀᴛᴜʀᴇs :</b></summary>
@@ -72,7 +72,7 @@ Here's a tutorial on how to deploy Lucy Bot - <b>[ᴛᴜᴛᴏʀɪᴀʟ](https:/
 - [x] ɪᴅ ᴀɴᴅ ᴜsᴇʀ ɪɴғᴏ
 - [x] ᴏᴛʜᴇʀ ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs
 
-<b>ᴛᴏ ᴋɴᴏᴡ ᴀʙᴏᴜᴛ ᴀʟʟ ғᴇᴀᴛᴜʀᴇs, ᴊᴏɪɴ ᴏᴜʀ  <a href='https://t.me/codeflix_bots'>ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ</a>.</b>
+<b>ᴛᴏ ᴋɴᴏᴡ ᴀʙᴏᴜᴛ ᴀʟʟ ғᴇᴀᴛᴜʀᴇs, ᴊᴏɪɴ ᴏᴜʀ  <a href='https://t.me/Luca_filterbot'>ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ</a>.</b>
 </details>
 
 <details>
@@ -90,8 +90,8 @@ Here's a tutorial on how to deploy Lucy Bot - <b>[ᴛᴜᴛᴏʀɪᴀʟ](https:/
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* `GOOGLE_API_KEY` : Get the value from [ɢᴏᴏɢʟᴇ ᴀɪ](https://t.me/sewxiy)
-* Check [info.py](https://github.com/erotixe/AutoFilter/blob/main/info.py) for more optional variables
+* `GOOGLE_API_KEY` : Get the value from [ɢᴏᴏɢʟᴇ ᴀɪ](https://t.me/mudiyanmass)
+* Check [info.py](https://github.com/Mudiyanmass/LucaAutoFilter/blob/main/info.py) for more optional variables
 </details>
 
 <details><summary><b>ᴄᴏᴍᴍᴀɴᴅs :</b></summary>
@@ -146,25 +146,25 @@ and more....
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Codeflix-Bots/AutoFilter">
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Mudiyanmass/LucaAutoFilter">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
 </a></p>
-<h3 align="center">
+<h3sewxenter">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴋᴏʏᴇʙ 」─
 </h3>
-<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/Codeflix-Bots/AutoFilter&branch=Lucy-main&name=lucy-main">
+<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/Mudiyanmass/LucaAutoFilter&branch=Lucᴀ-main&name=luca-main">
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy On Koyeb">
 </a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 」─
 </h3>
-<p align="center"><a href="https://railway.app/deploy?template=https://github.com/Codeflix-Bots/AutoFilter">
+<p align="center"><a href="https://railway.app/deploy?template=https://github.com/Mudiyanmass/LucaAutoFilter">
      <img height="45px" src="https://railway.app/button.svg">
 </a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴇɴᴅᴇʀ 」─
 </h3>
-<p align="center"><a href="https://render.com/deploy?repo=https://github.com/Codeflix-Bots/AutoFilter">
+<p align="center"><a href="https://render.com/deploy?repo=https://github.com/Mudiyanmass/LucaAutoFilter">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a></p>
 <h3 align="center">
@@ -172,8 +172,8 @@ and more....
 </h3>
 <p>
 <pre>
-git clone https://github.com/Codeflix-Bots/AutoFilter
-cd AutoFilter
+git clone https://github.com/Mudiyanmass/LucaAutoFilter
+cd LucaAutoFilter
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
@@ -186,11 +186,11 @@ python3 bot.py
 <h3>「 ᴄʀᴇᴅɪᴛs 」
 </h3>
 
-- <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://t.me/codeflix_bots)  ➻  [ᴏᴡɴᴇʀ](https://t.me/codeflix_bots) </b>
+- <b>[ʟᴜᴄᴀ ꜰɪʟᴛᴇʀ ʙᴏᴛ](https://t.me/Luca_filterbot)  ➻  [ᴏᴡɴᴇʀ](https://t.me/mudiyanmass) </b>
 - <b>[ʜᴀʀsʜᴀʟ ᴘᴜʀᴏʜɪᴛ](https://t.me/sd_bots)  ➻  [ʙᴀsᴇ ᴄᴏᴅᴇ](https://github.com/HarshalPurohitEdits/TheMovieProviderBot/tree/main) </b>
-- <b>[ᴍɪᴋᴇʏ](https://github.com/sewxiy)  ➻  [ᴇᴠᴇʀʏᴛʜɪɴɢ](https://sewxiy) </b>
+- <b>[ᴍɪᴋᴇʏ](https://github.com/mudiyanmass)  ➻  [ᴇᴠᴇʀʏᴛʜɪɴɢ](https://mudiyanmass) </b>
  
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/codeflix-bots) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ 𝐋ᴜᴄʏ ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤 </b>
+<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://t.me/Luca_filterbot) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ 𝐋ᴜᴄʏ ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤 </b>
 
 
 <h3>「 ɴᴏᴛᴇ 」
@@ -213,12 +213,12 @@ python3 bot.py
 
  # <b>ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ ᴍʏ ᴄʀᴇᴅɪᴛ...
 
-<b>⋗  ᴛᴇʟᴇɢʀᴀᴍ - <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://t.me/codeflix_bots)</b>
+<b>⋗  ᴛᴇʟᴇɢʀᴀᴍ - <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://t.me/Luca_filterbot)</b>
 
-- ᴄʀᴇᴅɪᴛ <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://t.me/codeflix_bots)  ➻  [ᴏᴡɴᴇʀ](https://t.me/sewxiy) </b>
+- ᴄʀᴇᴅɪᴛ <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://t.me/Luca_filterbot)  ➻  [ᴏᴡɴᴇʀ](https://t.me/mudiyanmass) </b>
 - ᴘʟᴇᴀsᴇ ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ ᴄʀᴇᴅɪᴛ..
 - ᴛʜᴀɴᴋ ʏᴏᴜ ᴄᴏᴅᴇғʟɪx ʙᴏᴛs ғᴏʀ ʜᴇʟᴘɪɴɢ ᴜs ɪɴ ᴛʜɪs ᴊᴏᴜʀɴᴇʏ 
-- ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ɢɪᴠɪɴɢ ᴍᴇ ᴄʀᴇᴅɪᴛ @Codeflix-bots  
-- ғᴏʀ ᴀɴʏ ᴇʀʀᴏʀ ᴘʟᴇᴀsᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ -> ᴛᴇʟᴇɢʀᴀᴍ @codeflix_bots Community @Otakflix_Network </b>
+- ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ɢɪᴠɪɴɢ ᴍᴇ ᴄʀᴇᴅɪᴛ @mudiyanmass 
+- ғᴏʀ ᴀɴʏ ᴇʀʀᴏʀ ᴘʟᴇᴀsᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ -> ᴛᴇʟᴇɢʀᴀᴍ @luca_filterbot Community @mudiyanmass</b>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
