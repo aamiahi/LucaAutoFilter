@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/e877291963214a0834111.jpg" alt="AutoFilter Luca Logo">
+  <img src="https://graph.org/file/3d14b4fe1de6a177b552c.jpg" alt="AutoFilter Luca Logo">
 </p>
 <h2 align="center">
   「 ʟᴜᴄᴀ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ 」
