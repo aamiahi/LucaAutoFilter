@@ -213,11 +213,11 @@ python3 bot.py
 
  # <b>ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ ᴍʏ ᴄʀᴇᴅɪᴛ...
 
-<b>⋗  ᴛᴇʟᴇɢʀᴀᴍ - <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://t.me/Luca_filterbot)</b>
+<b>⋗  ᴛᴇʟᴇɢʀᴀᴍ - <b>[Luca_filterbot](https://t.me/Luca_filterbot)</b>
 
-- ᴄʀᴇᴅɪᴛ <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://t.me/Luca_filterbot)  ➻  [ᴏᴡɴᴇʀ](https://t.me/mudiyanmass) </b>
+- ᴄʀᴇᴅɪᴛ <b>[luca_filterbot](https://t.me/Luca_filterbot)  ➻  [ᴏᴡɴᴇʀ](https://t.me/mudiyanmass) </b>
 - ᴘʟᴇᴀsᴇ ᴅᴏɴ'ᴛ ʀᴇᴍᴏᴠᴇ ᴄʀᴇᴅɪᴛ..
-- ᴛʜᴀɴᴋ ʏᴏᴜ ᴄᴏᴅᴇғʟɪx ʙᴏᴛs ғᴏʀ ʜᴇʟᴘɪɴɢ ᴜs ɪɴ ᴛʜɪs ᴊᴏᴜʀɴᴇʏ 
+- ᴛʜᴀɴᴋ ʏᴏᴜ Luca ꜰɪʟᴛᴇʀʙᴏᴛs ғᴏʀ ʜᴇʟᴘɪɴɢ ᴜs ɪɴ ᴛʜɪs ᴊᴏᴜʀɴᴇʏ 
 - ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ɢɪᴠɪɴɢ ᴍᴇ ᴄʀᴇᴅɪᴛ @mudiyanmass 
 - ғᴏʀ ᴀɴʏ ᴇʀʀᴏʀ ᴘʟᴇᴀsᴇ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ -> ᴛᴇʟᴇɢʀᴀᴍ @luca_filterbot Community @mudiyanmass</b>
 
