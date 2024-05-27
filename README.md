@@ -188,7 +188,7 @@ python3 bot.py
 
 - <b>[ʟᴜᴄᴀ ꜰɪʟᴛᴇʀ ʙᴏᴛ](https://t.me/Luca_filterbot)  ➻  [ᴏᴡɴᴇʀ](https://t.me/mudiyanmass) </b>
 - <b>[ʜᴀʀsʜᴀʟ ᴘᴜʀᴏʜɪᴛ](https://t.me/sd_bots)  ➻  [ʙᴀsᴇ ᴄᴏᴅᴇ](https://github.com/HarshalPurohitEdits/TheMovieProviderBot/tree/main) </b>
-- <b>[ᴍɪᴋᴇʏ](https://github.com/mudiyanmass)  ➻  [ᴇᴠᴇʀʏᴛʜɪɴɢ](https://mudiyanmass) </b>
+- <b>[ɢɪᴛʜᴜʙ](https://github.com/mudiyanmass)  ➻  [ᴇᴠᴇʀʏᴛʜɪɴɢ](https://mudiyanmass) </b>
  
 <b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://t.me/Luca_filterbot) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ 𝐋ᴜᴄʏ ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤 </b>
 
