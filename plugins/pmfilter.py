@@ -128,7 +128,7 @@ async def give_filter(client, message):
                 parse_mode=enums.ParseMode.HTML,
                 reply_markup=InlineKeyboardMarkup(
                         [[
-                            InlineKeyboardButton('• ᴊᴏɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ •', url ='https://t.me/+JeWFhkIdXkdiNzc1')
+                            InlineKeyboardButton('• ᴊᴏɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ •', url ='https://t.me/+v1NoAgylODczNDk1')
                         ]]
                     )
                 )
@@ -142,7 +142,7 @@ async def pm_text(bot, message):
     if user_id in ADMINS: return # ignore admins
     await message.reply_text(
          text="<b>ʜᴇʏ ʙʀᴏ/sɪs, ʏᴏᴜ ᴄᴀɴ'ᴛ ɢᴇᴛ ғɪʟᴇs ғʀᴏᴍ ʜᴇʀᴇ... \n\nᴊᴏɪɴ ᴀɴᴅ sᴇᴀʀᴄʜ ʜᴇʀᴇ</b>",   
-         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("• ᴊᴏɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ • ​ ", url=f"https://t.me/TmaxCinema")]]), disable_web_page_preview=True
+         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("• ᴊᴏɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ • ​ ", url=f"https://t.me/+v1NoAgylODczNDk1")]]), disable_web_page_preview=True
     )
     await bot.send_message(
         chat_id=LOG_CHANNEL,
@@ -442,7 +442,7 @@ async def filter_qualities_cb_handler(client: Client, query: CallbackQuery):
             ]
         )
         btn.insert(0, [
-            InlineKeyboardButton("ᴘʀᴇᴍɪᴜᴍ", url=f"https://t.me/+JeWFhkIdXkdiNzc1"),
+            InlineKeyboardButton("ᴘʀᴇᴍɪᴜᴍ", url=f"https://t.me/+v1NoAgylODczNDk1"),
             InlineKeyboardButton("sᴇɴᴅ ᴀʟʟ", callback_data=f"sendfiles#{key}")
         ])
 
@@ -461,7 +461,7 @@ async def filter_qualities_cb_handler(client: Client, query: CallbackQuery):
             ]
         )
         btn.insert(0, [
-            InlineKeyboardButton("ᴘʀᴇᴍɪᴜᴍ", url=f"https://t.me/+JeWFhkIdXkdiNzc1"),
+            InlineKeyboardButton("ᴘʀᴇᴍɪᴜᴍ", url=f"https://t.me/+v1NoAgylODczNDk1"),
             InlineKeyboardButton("sᴇɴᴅ ᴀʟʟ", callback_data=f"sendfiles#{key}")
         ])
 
@@ -2845,15 +2845,15 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "group_info":
         buttons = [[
-            InlineKeyboardButton('× ᴀʟʟ ᴏᴜʀ ʟɪɴᴋꜱ ×', url="https://t.me/+JeWFhkIdXkdiNzc1")
+            InlineKeyboardButton('× ᴀʟʟ ᴏᴜʀ ʟɪɴᴋꜱ ×', url="https://t.me/+v1NoAgylODczNDk1")
        ],[
-            InlineKeyboardButton('• ɢʀᴏᴜᴘ •', url="https://t.me/TmaxCinema"),
-            InlineKeyboardButton('• ᴜᴘᴅᴀᴛᴇs •', url="https://t.me/+uhKxNWE4p3RjODNl")
+            InlineKeyboardButton('• ɢʀᴏᴜᴘ •', url="https://t.me/+v1NoAgylODczNDk1"),
+            InlineKeyboardButton('• ᴜᴘᴅᴀᴛᴇs •', url="https://t.me/+v1NoAgylODczNDk1")
        ],[
-            InlineKeyboardButton('• sᴇʀɪᴇsғʟɪx •', url="https://t.me/+JeWFhkIdXkdiNzc1"),
-            InlineKeyboardButton('• ᴍᴏᴠɪᴇғʟɪx •', url="https://t.me/+JeWFhkIdXkdiNzc1")
+            InlineKeyboardButton('• sᴇʀɪᴇsғʟɪx •', url="https://t.me/+v1NoAgylODczNDk1"),
+            InlineKeyboardButton('• ᴍᴏᴠɪᴇғʟɪx •', url="https://t.me/+v1NoAgylODczNDk1")
        ],[
-            InlineKeyboardButton('• ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ •', url="https://t.me/TmaxCinema")
+            InlineKeyboardButton('• ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ •', url="https://t.me/+v1NoAgylODczNDk1")
        ],[ 
             InlineKeyboardButton('◁ ʙᴀᴄᴋ', callback_data='start')
         ]]
